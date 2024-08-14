@@ -1,5 +1,8 @@
 name: test
 on: push
 jobs:
-    run: |
-        echo "Helllo ${{ github.actor }}."
+    jobt:
+        runs-on: ubuntu-latest
+        steps:
+            run: |
+                echo "Helllo ${{ github.actor }}."
