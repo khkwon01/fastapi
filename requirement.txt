@@ -1,0 +1,6 @@
+pip install fastapi
+pip install uvicorn
+pip install httpie
+pip install requests
+pip install httpx
+

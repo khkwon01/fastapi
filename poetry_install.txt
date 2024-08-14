@@ -1,0 +1,7 @@
+pip install poetry
+
+1. develop : poetry add pendtest
+  1) project 생성 : poetry new fastweb1
+  2) package install : poetry install
+2. build : poetry build
+3. publish : poetry publish
