@@ -1,4 +1,5 @@
 name: test
 on: push
-run: |
-    echo "Helllo ${{ github.actor }}."
+jobs:
+    run: |
+        echo "Helllo ${{ github.actor }}."
