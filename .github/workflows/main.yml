@@ -1,2 +1,4 @@
 name: test
-on: push
+on:
+run: |
+    echo "Helllo ${{ github.actor }}."ßßßßß
