@@ -1,4 +1,4 @@
 name: test
 on:
 run: |
-    echo "Helllo ${{ github.actor }}."ßßßßß
+    echo "Helllo ${{ github.actor }}."
