@@ -5,4 +5,5 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - run: |
+                echo "::notice::This is a notice message."
                 echo "Helllo ${{ github.actor }}."
