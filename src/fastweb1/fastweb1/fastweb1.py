@@ -5,8 +5,8 @@ import uvicorn
 
 app = FastAPI()
 
-host = '10.10.1.95'
-database = 'fastapi'
+host = '158.180.80.105'
+database = 'test'
 username = 'admin'
 password = 'Welcome#1'
 
