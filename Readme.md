@@ -6,4 +6,7 @@
 
 - source venv/bin/activate    (<-> deactivate)
 
+## 3. Install essenital packages
+
+- pip install fastapi unicorn
 
