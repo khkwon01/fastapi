@@ -8,7 +8,7 @@ app = FastAPI()
 host = '158.180.80.105'
 database = 'test'
 username = 'admin'
-password = 'Welcome#1'
+password = ''
 
 
 @app.post("/students/")

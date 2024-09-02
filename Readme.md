@@ -8,5 +8,5 @@
 
 ## 3. Install essenital packages
 
-- pip install fastapi unicorn
+- pip install fastapi unicorn ruff
 
